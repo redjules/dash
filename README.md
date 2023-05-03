@@ -1,8 +1,10 @@
 # Virtual environment:
 
  
-pip install virtualenv
+- pip install virtualenv
 
-virtualenv venv   
+- virtualenv venv   
 
-source venv/bin/activate
+- Windows: venv\script\activate
+
+- Mac: source venv/bin/activate
